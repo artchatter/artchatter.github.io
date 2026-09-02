@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "project": "project-13119113",
+  "generated_at": "2026-08-21 14:07:11",
+  "chrome": "E:\\playwright-browsers\\chromium-1187\\chrome-win\\chrome.exe",
+  "routes": [
+    "/",
+    "/about",
+    "/circles",
+    "/post/1",
+    "/post/2",
+    "/post/3",
+    "/post/4",
+    "/post/5",
+    "/post/6",
+    "/post/7",
+    "/post/8",
+    "/post/9",
+    "/works"
+  ],
+  "route_count": 13,
+  "missing_assets": [],
+  "warnings": [
+    "缺失的非关键本地资源：/vite.svg"
+  ]
+}
